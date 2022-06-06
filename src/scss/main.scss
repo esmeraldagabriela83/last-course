@@ -1,0 +1,47 @@
+body{
+  background-color: pink;
+}
+.form {
+  font-family: Arial,Helvetica sans-serif;
+  width: clamp(20%, 45%, 50%);
+  border: solid #88D9E6 1px;
+  border-radius: 1em;
+  padding: 1.5em;
+  background-color: #EBFFFE;
+  display: block;
+
+  label {
+    text-transform: capitalize;
+    display: block;
+    padding: 0.5em;
+    font-size: 1.2em;
+
+    input {
+      display: block;
+    }
+
+    [type="radio"] {
+      display: inline-block;
+    }
+
+    &.error {
+      color: #CF0000;
+    }
+
+    &.valid {
+      color: green;
+    }
+  }
+
+  button {
+    min-width: 50%;
+    outline: none;
+    font-weight: bold;
+    background-color: white;
+    font-size: 1.2em;
+    border: 1px #88D9E6 solid;
+    color: #88D9E6;
+    border-radius: 0.3em;
+    padding: 0.3em 0.5em;
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "user1",
+      "username": "USER1",
+      "password": "123",
+      "email": "user1@yahoo.com",
+      "phone": "0722669611",
+      "message": "user1 message",
+      "usertype": "basic",
+      "age": "junior",
+      "tnc": "1",
+      "checkpassword": "123",
+      "id": 1
+    },
+    {
+      "name": "user2",
+      "username": "USER2",
+      "password": "456",
+      "email": "user2@yahoo.com",
+      "phone": "0722669612",
+      "message": "user2 message",
+      "usertype": "super",
+      "age": "elderly",
+      "tnc": "1",
+      "checkpassword": "456",
+      "id": 2
+    },
+    {
+      "name": "user3",
+      "username": "USER3",
+      "password": "789",
+      "email": "user2@yahoo.com",
+      "phone": "0722669612",
+      "message": "user3 message",
+      "usertype": "super",
+      "age": "elderly",
+      "tnc": "1",
+      "checkpassword": "789",
+      "id": 3
+    },
+    {
+      "name": "user4",
+      "username": "USER4",
+      "password": "abc",
+      "email": "esmeraldagabriela83@yahoo.com",
+      "phone": "0722669614",
+      "message": "USER4 MESSAGE",
+      "usertype": "basic",
+      "age": "junior",
+      "tnc": "1",
+      "checkpassword": "abc",
+      "id": 4
+    },
+    {
+      "name": "gigel",
+      "username": "gigy",
+      "password": "gicu123",
+      "email": "gicu@yahoo.com",
+      "phone": "0722669615",
+      "message": "gigel message",
+      "usertype": "admin",
+      "age": "junior",
+      "tnc": "1",
+      "checkpassword": "gicu123",
+      "id": 5
+    },
+    {
+      "name": "costel",
+      "username": "costy",
+      "password": "costy123",
+      "email": "costy@yahoo.com",
+      "phone": "0722669616",
+      "message": "costy message",
+      "usertype": "super",
+      "age": "junior",
+      "tnc": "1",
+      "checkpassword": "costy123",
+      "id": 6
+    },
+    {
+      "name": "maria",
+      "username": "mary",
+      "password": "123m",
+      "email": "mary@gmail.com",
+      "phone": "0722669617",
+      "message": "mary message",
+      "usertype": "basic",
+      "age": "elderly",
+      "tnc": "1",
+      "checkpassword": "123m",
+      "id": 7
+    }
+  ]
+}
